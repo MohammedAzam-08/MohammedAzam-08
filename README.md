@@ -44,7 +44,7 @@
 - Verified logic using manual test cases
 
 #### 🧍‍♂️ [Human Pose Detection System](https://github.com/MohammedAzam-08/Human-Pose-Estimation)
-- Real-time pose estimation using **OpenCV** and **TensorFlow**
+- pose estimation using **OpenCV** and **TensorFlow**
 - Performed **system testing** under variable hardware/light conditions
 - Tuned parameters for optimized detection accuracy
 
