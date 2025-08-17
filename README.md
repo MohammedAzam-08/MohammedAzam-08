@@ -38,7 +38,7 @@
 - Implemented **JWT-based user authentication** and role-based access for students and teachers
 - Validated functionality with **functional testing** and responsive UI design
 
-#### ♻️ [Smart Waste Management System](https://github.com/MohammedAzam-08/Waste-Management_system)
+#### ♻️ [Smart Waste Management System](https://github.com/MohammedAzam-08/Smart-Waste-Management-System)
 - Java Swing-based municipal waste record management with **MySQL CRUD**
 - Developed data validation logic and **report generation**
 - Verified logic using manual test cases
